@@ -1,0 +1,101 @@
+premise	hypothesis	predicted_label	true_label
+A female swimmer wearing a pink costume comes out of the water in a pool , making a splash .	A woman is laying on the beach .	2	2
+A man in a plaid shirt looking through a telescope lens .	a man is looking through a telescope	1	1
+People walk and bicycle down an alley between white buildings with blue trim .	People walk by a train .	0	2
+A woman rollerblader with knee and elbow pads and a helmet jumping into the air .	the woman is a professional skater	0	0
+The man is performing a trick on a motorcycle high in the air .	A man is showing off for his friends .	0	0
+A bird is flapping its wings on the water .	The duck is swimming in the lake .	2	0
+Four men and three women , all in their beach attire , hang around a small cliff by the ocean as one man is about to dive into the water .	Nobody has beach attire	2	2
+Three children are playing with an illuminated water art display .	Three children are swearing at an illuminated water art display	0	0
+A man talks to two guards as he holds a drink .	The prisoner is talking to two guards in the prison cafeteria .	0	0
+Construction workers use cables to hang from the sides of buildings .	Construction workers are brave .	0	0
+A black and brown dog is jumping on blocks of concrete in the water .	The dog is sleeping .	2	2
+A woman with short blond-hair rises from a chair as another woman in a burgundy shirt laughs .	A woman is getting ready to box	0	0
+A silhouette stands at the top of a bowling lane as the ball is about to impact the pins while neon lights race overhead .	The bowler who just rolled in the bright , noisy alley is hoping for a strike .	0	1
+A man in an Alaska sweatshirt stands behind a counter .	The man is from Alaska .	0	0
+A lone person in a long , black trench coat and scarf and carrying a red bag goes past an apparently-closed cafe at night , with the text `` CAFE DE FLO '' visible on the cafe canopy banner .	A man walks by an open cafe named `` Cafe De Flo ''	1	2
+Several people including a child and a clown are walking towards a snowy sidewalk	Mane people sit in the street .	2	2
+A man wearing dark knee boots , a green cape , and a hat with two big feathers on the front is sitting by himself on a bench in front of a building with a blue and white patterned piece of wheeled luggage to his right while he rests both his hands on a walking stick .	A man in a red cape and a hat with three feathers sits by himself .	2	2
+A man and a woman are dancing in the crowd .	a couple dance together at their wedding reception	0	0
+A guy in a yellow shirt performs a balancing act on a taught chain near a canal .	A boy is watching a movie in his living room .	2	2
+A crowd walks about a square at night with smoke or fog drifting over them .	A group of people walks in the square .	1	1
+A woman in a red jacket walks down the street in the rain .	Woman walks down street on sunny day	2	2
+Team member 39 waiting for the puck to come his way .	A person has a number on his shirt .	0	0
+A beach boardwalk during summertime .	A wooden path towards the shore .	2	1
+Along a paved walkway outdoors , a person in a black windbreaker takes a photo of a multi-piece fish statue while a small white dog looks on .	A jury convicts the innocent man because they thought it 'd be funny .	2	2
+A guy in glasses is biting into a pink marshmallow chick while somebody else is puckering their lips out wanting a bite .	A man is eating a marshmallow .	1	1
+A young face-painted boy is sucking his thumb .	The boy is not sucking his thumb .	2	2
+A group stands and watches two men , apparently dressed in some sort of costume , wrestle on the ground .	the people are betting money on this match	0	0
+Kids play in the water in the middle of the street .	Kids are playing in the water .	1	1
+A young boy giving his brother a piggyback ride	a boy is playing monopoly with his brother	2	2
+Two African American men laughing with aprons on , while a third man wearing a chef jacket is on a cellular phone .	Three African American men work together in the food industry .	0	0
+A girl in a blue leotard hula hoops on a stage with balloon shapes in the background .	A girl is on a bus going to get her groceries	2	2
+A birthday party for many little people to enjoy .	Children enjoying a birthday party .	1	0
+A woman poses with sunglasses shaped like dollar signs and a silver suitcase labelled `` LUCKY '' full of bills .	A woman who just won the jackpot at the casino poses for a picture .	0	0
+African woman walking through field .	The african woman is looking for someone in the fields .	0	0
+Instructor on Basket weaving at fair	A basket weaver teaching a class at the fair .	0	0
+A rugby player running the ball between two downed opponents .	Someone is playing hockey .	2	2
+The coaching official and football player are talking in front a crowd and other team members .	Tall people talking	0	0
+An elderly women is sitting in a chair on one side of a room with a group of musicians , including a cellist and guitar player , and on the other side of the room , a group of people are sitting on chairs .	The woman is in her teens .	0	2
+A roofer in a gray sweatshirt and orange hat walks on a unfinished roof at a lake-side home .	The roofer is outside working .	0	1
+A lady in a white tank and shorts fixing a wooden drawer .	The woman is wearing black shorts .	2	0
+Two girls , one with dark hair , wearing glasses and red pants , the other with a blue shirt and jeans with blond-hair talking and walking down a sidewalk .	Two people are outside walking together .	1	1
+A man in a brown shirt and blue shorts walking in Droney Park .	A man walking in Droney Park .	1	1
+An elderly man with glasses , a red ball cap and backpack is standing in front of an open doorway .	the man is a farmer	0	0
+A man and woman are taking a picture of themselves while a woman in a scarf walks by them .	A man and woman take selfies of themselves .	1	1
+A young man in a heavy brown winter coat stands in front of a blue railing with his arms spread .	The young man is at his grandmothers house .	0	0
+A man holding a yellow surfboard facing the ocean .	A man is holding a surfboard .	1	1
+Three men play musical instruments .	Three people with guitars .	0	0
+Indy car , white , blue with a red mark on the roof , rounding a turn , in front of the white car .	People playing racketball	2	2
+A young girl with purple pants , a striped jacket , and a white hat is climbing up a ladder made of logs .	A girl is climbing up a ladder .	1	1
+Two little kids without shirts are sitting down facing each other .	Two children are sitting shirtless indoors	0	0
+Security officer working outside .	A security officer is dressed in a uniform .	0	0
+A young lady and group of younger girls watching a group of military men drive down the road at a parade .	Women are watching a parade .	1	1
+A man interviews a boy in a gathering of people .	A man interviews a boy .	1	1
+Four people walk across stepping stones in a body of water .	The people are trying to cross a river without getting wet .	0	0
+Four young female gymnasts dressed in black and blue leotards are preparing for their next routine .	Band performs onstage to an empty room .	2	2
+A little boy with an orange backpack walks under a tree through the woods .	A boy walks to school through the woods .	0	0
+Men work on a city street .	The men are working	1	1
+A boy is running in a spinning metal tunnel in the playground .	He is outside .	1	0
+A person lies in a grassy area near a building .	A man is outside .	0	0
+People gathered around a table with food and wine on it .	Food and wine are on the table that has many people surrounding it .	1	1
+A man waiting in an airport terminal writes on a piece of paper as others are seen behind .	People trying to read what a man is writing .	1	0
+A man wearing a black beret , black coat , and black gloves takes a picture in the middle of a crowd	A bird steals a bag of chips from a store .	2	2
+A man is reading a book while sitting on a bench outside of a bookstore .	A man is reading a book he just bought .	0	0
+A golden dog passes a blue ball to another golden dog on the beach .	The dogs are refusing to share .	2	2
+A woman is walking her dog and using her cellphone .	The woman is walking her cat .	2	2
+A person sweeping stairs in a park .	A person outside .	1	1
+An elderly couple in heavy coats are looking at black and white photos displayed on a wall .	Octogenarians admiring the old photographs that decorated th wall .	0	1
+A man is sitting on a blue bench with a blue blanket covering his face .	A man is taking a nap on a bench .	0	0
+A woman with a blond ponytail and a white hat is riding a white horse , inside a fence with a horned cow .	The woman is riding a horse .	1	1
+A man wearing protective gear grinds down a large metal object .	The man is using a grinder wearing red protective gear .	0	0
+A woman wearing a gray sweater stands in the street near a green pole .	A person wearing a sweating in a street	0	1
+Man with blue and yellow shirt rides bike .	a bike rides a man for its first time	0	0
+A group of people taking pictures on a walkway in front of a large body of water .	A group poses on vacation at the ocean .	0	0
+Boys with their backs against an incoming wave .	A group of people stand together .	2	1
+A person in a red shirt and black pants hunched over .	The person is a woman .	0	0
+Three people are outside .	Three people in nature .	1	1
+A solo cyclist is riding down a windy road .	A cyclist rides down a road	1	1
+A man is laid back in front of a tv .	the man is standing in the kitchen	2	2
+One man watches while another breakdances , balancing himself for a moment on one hand .	A woman strips in a sleazy club .	2	2
+Man sitting playing guitar .	A man is standing on stage at a concert , playing saxophone .	2	2
+A girl playing soccer in a green field with some trees in the background .	The girl plays soccer with some friends .	0	0
+Two girls jumping on a trampoline , one upright and the other landing on her back , in a backyard .	There are girls on a trampoline .	1	1
+Three guys in red uniforms celebrating a goal in a soccer game .	Three men in red uniforms celebrating a goal in front of a crowd at a soccer stadium .	0	0
+A white duck expanding its wings in the water .	The duck sleeps soundly , floating on top of the water	2	2
+A smiling woman and man are seated in front of a microphone in a music studio .	The woman is frowning .	2	2
+A young boy runs across a road in front of a sky blue building with barred windows .	A boy runs across a road in front of an abandoned building .	0	1
+Three women sit at a table , taking notes from three identical magazines .	Three women are reading and writing .	0	1
+A person , in a striped blue shirt and pants , is running along .	The person is running	1	1
+Some people are standing on a city sidewalk at night and waiting to get on a double-decker bus .	People wait to get on a boat at night .	2	2
+A man in a navy blue shirt is tossing a boy with a large smile on his face high into the air .	A man tossing a girl into the air .	2	2
+Everyone is getting ready to play the game .	People prepare to play games .	1	1
+A small child wearing a helmet is in a baby carrier that is on the floor .	A child sleeps in a crib .	2	2
+A small child is riding in a red wagon .	A kid is in a wagon and someone is pulling it .	0	0
+An accordion player with a bright colored shirt sitting outside in a chair with a young man in a blue t-shirt passing by .	The man 's shirt is black .	2	2
+People are standing next to a chain link fence .	The people are siting down .	2	2
+A shirtless man with red paint on his torso holding a stick .	A fully dressed man holds a sign .	1	2
+White dog playing in the snow .	The dog has cold paws from the snow .	0	0
+Some men in burgundy coats try to push a car in the snow .	These men pushing the car off a cliff is from a scene in the movie Fargo .	2	0
+Two basketball players on opposing teams , one in white , the other in red , are mid-game , running down the court , white-uniform player with ball-in-hand .	The white team is winning a basketball game .	0	0
+There is a large group of people standing together mostly wearing Canada symbols .	There is a large group .	1	1
