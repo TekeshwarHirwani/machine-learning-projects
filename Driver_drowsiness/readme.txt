@@ -1,1 +1,0 @@
-To run main.py we need to download shape_predictor_68_face_landmarks.dat (https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat), also you need to change the directory accordingly
