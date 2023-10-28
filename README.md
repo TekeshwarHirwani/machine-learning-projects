@@ -20,42 +20,6 @@ We’re playing Sherlock with facial landmarks to keep tabs on your eye aspect r
 
 ---
 
-## [YoLov3 Object Detection from Scratch](YoLov3_Object_detection_from_scratch) 🕵️‍♂️🔍
-*For when you've lost your keys again... but way more advanced.*
-
-This project is all about having eagle-eyed precision in real-time object detection. Thanks to YOLO v3, we’re making “You Only Look Once” a reality and not just a cool catchphrase.
-
-### Technologies Used
-- Python: Our trusty sidekick in all things coding.
-- NumPy: Because who doesn’t love arrays?
-- OpenCV: Bringing images and video streams to life.
-
----
-
-## [Bulldozer Price Prediction](bulldozer-price-prediction) 🚜💸
-*"How much for that bulldozer in the window?"* 
-
-This project is like the "Antiques Roadshow" but for bulldozers at auctions. We’re predicting future prices like a financial wizard, ensuring you get the bang for your buck!
-
-### Technologies Used
-- Pandas: Not the animal, but just as lovable for data manipulation.
-- Scikit-Learn: Crafting models like a master.
-- Matplotlib: Turning data into art.
-
----
-
-## [Heart Disease Prediction](heart-disease) ❤️🏥
-*Because your heart deserves all the TLC!*
-
-Here, we’re on a quest to predict heart disease because we believe in taking care of tickers to keep them ticking!
-
-### Technologies Used
-- Pandas: More data wrangling fun.
-- NumPy: Did we mention we love arrays?
-- Scikit-Learn: Building models to predict and serve.
-
----
-
 ## [Parkinson's Disease Detection](parkinsons-disease) 🗣️🕵️
 *Turning voice waves into waves of hope.*
 
@@ -77,6 +41,30 @@ Dive deep into the world of natural language inference with BERT. It's like havi
 - PyTorch: Lighting the way for deep learning.
 - Transformers: Not the robots, but equally cool for handling sequences.
 - Pandas: Data’s best friend.
+
+---
+
+## [YoLov3 Object Detection from Scratch](YoLov3_Object_detection_from_scratch) 🕵️‍♂️🔍
+*For when you've lost your keys again... but way more advanced.*
+
+This project is all about having eagle-eyed precision in real-time object detection. Thanks to YOLO v3, we’re making “You Only Look Once” a reality and not just a cool catchphrase.
+
+
+---
+
+## [Bulldozer Price Prediction](bulldozer-price-prediction) 🚜💸
+*"How much for that bulldozer in the window?"* 
+
+This project is like the "Antiques Roadshow" but for bulldozers at auctions. We’re predicting future prices like a financial wizard, ensuring you get the bang for your buck!
+
+
+---
+
+## [Heart Disease Prediction](heart-disease) ❤️🏥
+*Because your heart deserves all the TLC!*
+
+Here, we’re on a quest to predict heart disease because we believe in taking care of tickers to keep them ticking!
+
 
 ---
 
