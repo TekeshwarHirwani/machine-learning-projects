@@ -27,7 +27,7 @@ This system employs a Raspberry Pi (Version 3 Model B+) as its core computing un
     ```
 7. Clone the project repository to your Raspberry Pi.
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/TekeshwarHirwani/machine-learning-projects/tree/main/Driver_drowsiness>
     cd <repository-directory>
     ```
 
