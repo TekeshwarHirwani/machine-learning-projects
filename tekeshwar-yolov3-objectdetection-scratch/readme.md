@@ -31,54 +31,19 @@ pip install torch numpy opencv-python pillow albumentations pandas matplotlib tq
 
 2. **Prepare the Dataset**
 
-   Make sure that your dataset is organized in the following structure:
-
-   ```
-   dataset
-   ├── images
-   │   ├── image1.jpg
-   │   ├── image2.jpg
-   │   └── ...
-   └── labels
-       ├── image1.txt
-       ├── image2.txt
-       └── ...
-   ```
-
-   Each text file in the `labels` directory should contain the object annotations for the corresponding image, with one object per line formatted as follows:
-
-   ```
-   class x_center y_center width height
-   ```
-
-   - `class`: The object class id (integer)
-   - `x_center`, `y_center`: The center coordinates of the bounding box (relative to the width and height of the image)
-   - `width`, `height`: The width and height of the bounding box (relative to the width and height of the image)
+   (Instructions for preparing the dataset)
 
 3. **Modify the Configuration**
 
-   Update the configuration section in the script to match your dataset and training preferences:
-
-   ```python
-   # Configuration
-   batch_size = 32
-   learning_rate = 1e-5
-   epochs = 20
-   image_size = 416
-   class_labels = ["class1", "class2", "class3", ...]
-   ```
+   (Instructions for modifying the configuration)
 
 4. **Train the Model**
 
-   Run the script to start the training process:
-
-   ```bash
-   python yolov3.py
-   ```
+   (Instructions for training the model)
 
 5. **Visualize the Results**
 
-   After training, you can use the `plot_image` function to visualize the object detection results on a sample image.
+   (Instructions for visualizing the results)
 
 ## Features
 
@@ -92,3 +57,16 @@ pip install torch numpy opencv-python pillow albumentations pandas matplotlib tq
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your_username/yolov3-objectdetection-scratch/issues).
+
+
+## Acknowledgements
+
+This project was inspired by or based on the following resources:
+
+- [YOLOv3 Paper](https://arxiv.org/abs/1804.02767)
+- [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
+- [Another GitHub Repository for YOLOv3](https://github.com/another_username/YOLOv3-implementation)
+- [Some Blog or Tutorial](https://example.com/tutorial-on-yolov3)
+- [Pytoch_code_reference](https://github.com/SannaPersson/YOLOv3-PyTorch)
+- [Pascal VOC DATASET from kaggle](https://www.kaggle.com/datasets/zaraks/pascal-voc-2007)
+Special thanks to all the authors and contributors of these resources!
