@@ -78,7 +78,8 @@ Here, we’re on a quest to predict heart disease because we believe in taking c
 ## Contact 📬🚀
 Tekeshwar Hirwani  
 B.Tech Biomedical Engineering  
-NIT Raipur  
+NIT Raipur 
+Contact Number : +917000346395
 Email: hirwanitekeshwar@gmail.com
 
 *Why couldn’t the bicycle find its way home? Because it lost its bearings! 😄 But worry not, you won’t lose your way in this repository!*
